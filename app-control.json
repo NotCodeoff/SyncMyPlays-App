@@ -1,5 +1,5 @@
 {
-  "appDisabled": false,
+  "appDisabled": true,
   "timestamp": "2025-01-27T10:00:00Z",
   "version": "1.0.0",
   "reason": "App is currently enabled and running normally",
@@ -16,4 +16,5 @@
     "emergency": "emergency@example.com"
   }
 }
+
 
