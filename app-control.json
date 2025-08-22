@@ -1,0 +1,18 @@
+{
+  "appDisabled": false,
+  "timestamp": "2025-01-27T10:00:00Z",
+  "version": "1.0.0",
+  "reason": "App is currently enabled and running normally",
+  "minRequiredVersion": "1.0.0",
+  "remoteControlInterval": 30000,
+  "controlSecret": "your-secret-key-here",
+  "securityLevel": "normal",
+  "maintenanceMode": false,
+  "allowedVersions": ["1.0.0", "1.0.1", "1.1.0"],
+  "blockedVersions": [],
+  "updateMessage": "App is running normally. No updates required at this time.",
+  "contactInfo": {
+    "admin": "your-email@example.com",
+    "emergency": "emergency@example.com"
+  }
+}
